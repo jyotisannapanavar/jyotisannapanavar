@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @jyotisannapanavar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Assignment1 output
+![Screenshot 2023-06-16 173307](https://github.com/jyotisannapanavar/jyotisannapanavar/assets/136812071/6784b899-3864-443f-8973-917bac9d6329)
 
-<!---
-jyotisannapanavar/jyotisannapanavar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Assignment2 output
+![Screenshot 2023-06-16 174757](https://github.com/jyotisannapanavar/jyotisannapanavar/assets/136812071/39532713-9356-4806-85c7-fbfd925b10e7)
+
+Assignment3 output
+![Screenshot 2023-06-16 175258](https://github.com/jyotisannapanavar/jyotisannapanavar/assets/136812071/e5f68b56-d229-47a6-a35c-e708d7221ee6)
+![Screenshot 2023-06-16 175328](https://github.com/jyotisannapanavar/jyotisannapanavar/assets/136812071/9262f7e6-a28c-44e8-9af4-36aa01a97273)
+
+Assignment4 output
+![Screenshot 2023-06-16 175702](https://github.com/jyotisannapanavar/jyotisannapanavar/assets/136812071/2767b760-caf6-4ead-93b6-190dff53f8e9)
+![Screenshot 2023-06-16 175726](https://github.com/jyotisannapanavar/jyotisannapanavar/assets/136812071/35b94547-8597-4f9f-b9df-2f2e0049b4fe)
+![Screenshot 2023-06-16 175755](https://github.com/jyotisannapanavar/jyotisannapanavar/assets/136812071/452ba381-af87-404d-ba7f-5630ca2b2552)
+![Screenshot 2023-06-16 175815](https://github.com/jyotisannapanavar/jyotisannapanavar/assets/136812071/4af67eb1-1ed8-40ac-ae3f-da9418fe4c0f)
