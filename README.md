@@ -20,17 +20,10 @@ Assignment6 output
 ![Screenshot (6)](https://github.com/jyotisannapanavar/jyotisannapanavar/assets/136812071/e3b79344-ffc8-4853-a396-d5e880aa086e)
 Assignment7 output
 ![Screenshot (7)](https://github.com/jyotisannapanavar/jyotisannapanavar/assets/136812071/57cebfdb-4aa8-45cc-b318-58405a5ec07c)
-
-
-
-
-
-
-
-
-
-
-
+Assignment8 output
+![Screenshot (8)](https://github.com/jyotisannapanavar/jyotisannapanavar/assets/136812071/b392413e-795c-4672-8c28-7eba683efc34)
+![Screenshot (9)](https://github.com/jyotisannapanavar/jyotisannapanavar/assets/136812071/2f3db615-6649-4099-bbdf-ef79f6093d07)
+![Screenshot (10)](https://github.com/jyotisannapanavar/jyotisannapanavar/assets/136812071/3dd39b54-4043-4d49-a715-8f752d612f35)
 
 
 
