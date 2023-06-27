@@ -19,10 +19,7 @@ Assignment6 output
 ![Screenshot (5)](https://github.com/jyotisannapanavar/jyotisannapanavar/assets/136812071/81fd4ab8-e1d4-4b2c-862f-bdb6ed552387)
 ![Screenshot (6)](https://github.com/jyotisannapanavar/jyotisannapanavar/assets/136812071/e3b79344-ffc8-4853-a396-d5e880aa086e)
 Assignment7 output
-![Uploading Screenshot (7).png…]()
-
-
-
+![Screenshot (7)](https://github.com/jyotisannapanavar/jyotisannapanavar/assets/136812071/57cebfdb-4aa8-45cc-b318-58405a5ec07c)
 
 
 
